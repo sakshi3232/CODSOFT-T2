@@ -7,6 +7,7 @@ This repository showcase the Python-based projects that I developed during my in
 
 
 Task 2: Tic-Tac-Toe AI
+
 An AI agent that plays the classic game of Tic-Tac-Toe against a human player.
 
 Features :  
